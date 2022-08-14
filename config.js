@@ -43,12 +43,12 @@ global.eror = '_*мααƒ ѕєяνєя тι∂αк ѕтαвιℓ..*_'
 global.Intervalmsg = 1800 //detik
 
 //========Url Template Buttons=========//
-global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/aguzfamilia"
+global.dtu = '𝙶𝙸𝚃𝙷𝚄𝙱'
+global.urlnya = "https://github.com/ImleviOfc"
 
 //============= callButtons =============//
-global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 813-2017-0984'
+global.dtc = '𝙲𝙰𝙻𝙻 𝙾𝚆𝙽𝙴𝚁'
+global.phn = '+62 851-7244-6692'
 
 //============= Games ================//
 global.benar = '_*Benar✅*_'
@@ -63,7 +63,7 @@ global.author = data.owner;
 
 //=========== Requirements ==========//  
         global.colong1 = 'Ciss 📸'
-        global.colong2 = 'ʙy ᴀɢᴜᴢ ꜰᴀᴍɪʟɪᴀ'
+        global.colong2 = '𝚅𝙴𝙽𝚉-𝙱𝙾𝚃'
 global.img = pickRandom(waifu)
 global.fla = pickRandom(flaaa)
 
